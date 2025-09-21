@@ -9,7 +9,7 @@ from evaluator import evaluate_resume
 # Page Config
 # -------------------------
 st.set_page_config(page_title="AI Recruiter", layout="wide")
-st.title("")
+st.title("🤖 AI Recruiter")
 
 # -------------------------
 # Custom CSS (Dark Gradient Theme)
@@ -156,3 +156,4 @@ if st.sidebar.button("Show Shortlisted"):
             st.markdown("---")
     else:
         st.write("No candidates have score ≥ 70 yet.")
+
