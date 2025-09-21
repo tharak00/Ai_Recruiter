@@ -1,0 +1,7 @@
+streamlit
+python-docx
+PyMuPDF
+google-generativeai
+python-dotenv
+scikit-learn
+fuzzywuzzy[speedup]
